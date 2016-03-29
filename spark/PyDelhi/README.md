@@ -8,7 +8,9 @@ Introduction to PySpark
 
 ## Demo
 
-Execute `run.sh` to run the demo locally or use [this.](https://github.com/shagunsodhani/talks/blob/master/spark/PySpark.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/shagunsodhani/talks)
+
+Execute `run.sh` to run the demo locally or use [this.](https://github.com/shagunsodhani/talks/blob/master/spark/PyDelhi/PySpark.ipynb)
 
 ## Event
 
