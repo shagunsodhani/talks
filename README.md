@@ -2,7 +2,8 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/shagunsodhani/talks)
 
+* [Big Data Analysis using PySpark](spark/PyCon2016)
 
-* [Introduction to PySpark](https://github.com/shagunsodhani/talks/tree/master/spark/PyDelhi)
+* [Getting Started with Apache Spark](spark/BDI)
 
-* [Getting Started with Apache Spark](https://github.com/shagunsodhani/talks/tree/master/spark/BDI)
+* [Introduction to PySpark](spark/PyDelhi)
