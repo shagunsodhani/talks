@@ -1,6 +1,6 @@
 ## Repository of my talks/presentations
 
-* [Introduction to Machine Learning with Scikit-Learn](ML/PyCon2016)
+* [Introduction to Machine Learning with Scikit-Learn](ML/DigitalOcean)
 
 * [Big Data Analysis using PySpark](spark/PyCon2016)
 
