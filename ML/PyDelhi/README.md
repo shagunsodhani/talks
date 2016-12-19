@@ -5,7 +5,7 @@
 ## Presentation
 
 * [Slides](https://slides.com/shagunsodhani/deep-learning2016/)
-* [Demo](https://github.com/shagunsodhani/keras-demos
+* [Demo](https://github.com/shagunsodhani/keras-demos)
 
 ## Event
 
