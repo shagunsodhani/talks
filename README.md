@@ -1,5 +1,9 @@
 ## Repository of my talks/presentations
 
+##2016
+
+* [Introduction to Deep Learning with Keras](ML/PyDelhi)
+
 * [Introduction to Deep Learning with Keras](ML/TwitterDeveloperGroup)
 
 * [Introduction to Machine Learning with Scikit-Learn](ML/DigitalOcean)
