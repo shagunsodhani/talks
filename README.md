@@ -1,5 +1,11 @@
 # Repository of my talks/presentations
 
+## 2017
+
+| Title                                                                 | For                                     | Month     |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
+| [Functional Programming in Python](https://github.com/shagunsodhani/talks/tree/master/Programming/PyDelhiConference) | [PyDelhi Conference 2017](https://conference.pydelhi.org/) | March  |
+
 ## 2016
 
 | Title                                                                 | For                                     | Month     |
