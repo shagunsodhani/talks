@@ -10,7 +10,7 @@
 
 * [Exploratory Analysis Demo](http://shagunsodhani.in/PyCon2016/presentation/StackOverflow/User/ExploratoryAnalysis.slides.html)
 * [Word2Vec Demo](http://shagunsodhani.in/PyCon2016/presentation/AskUbuntu/Question/Word2Vec.slides.html)
-
+* [Video Recording](https://www.youtube.com/watch?v=i9xbB_Uekvg)
 
 ## Setup
 

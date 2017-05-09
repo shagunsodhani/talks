@@ -6,6 +6,7 @@
 
 * [Slides](http://slides.com/shagunsodhani/pydelhiconf2017/)
 * [Demo](http://shagunsodhani.in/PyDelhiConf2017/Demo.slides.html)
+* [Video Recording](https://www.youtube.com/watch?v=EScj8eSOmfk)
 
 ## Event
 
