@@ -5,6 +5,7 @@
 | Title                                                                 | For                                     | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
 | [Functional Programming in Python](https://github.com/shagunsodhani/talks/tree/master/Programming/PyDelhiConference) | [PyDelhi Conference 2017](https://conference.pydelhi.org/) | March  |
+| [Panel Discussion on state of Python in Delhi/NCR](https://github.com/shagunsodhani/talks/tree/master/Community/PyDelhiConference) | [PyDelhi Conference 2017](https://conference.pydelhi.org/) | March  |
 
 ## 2016
 
