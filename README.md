@@ -2,7 +2,7 @@
 
 ## 2017
 
-| Title                                                                 | For                                     | Month     |
+| Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
 | [Python for Machine Learning](https://github.com/shagunsodhani/talks/tree/master/ML/WomenWhoCode) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/240426878/) | June  |
 | [Functional Programming in Python](https://github.com/shagunsodhani/talks/tree/master/Programming/PyDelhiConference) | [PyDelhi Conference 2017](https://conference.pydelhi.org/) | March  |
@@ -10,7 +10,7 @@
 
 ## 2016
 
-| Title                                                                 | For                                     | Month     |
+| Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
 | [Introduction to Deep Learning with Keras](https://github.com/shagunsodhani/talks/tree/master/ML/PyDelhi) | [PyDelhi + PyData + ILUG-D + Linux Chix meetup mash](https://www.meetup.com/pydelhi/events/232105316/) | December  |
 | [Introduction to Deep Learning with Keras](https://github.com/shagunsodhani/talks/tree/master/ML/TwitterDeveloperGroup)  | [Twitter Developer Group](https://www.meetup.com/Delhi-Twitter-Developers-Community/events/234585082/) | November  |
