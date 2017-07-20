@@ -4,7 +4,8 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
-| [Python for Machine Learning](https://github.com/shagunsodhani/talks/tree/master/ML/WomenWhoCode) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/240426878/) | June  |
+| [Python for Machine Learning](https://github.com/shagunsodhani/talks/tree/master/ML/WomenWhoCode/23.07.2017) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/239975459/) | July  |
+| [Python for Machine Learning](https://github.com/shagunsodhani/talks/tree/master/ML/WomenWhoCode/06.04.2017) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/240426878/) | June  |
 | [Question & Answer Session on Deep Learning](https://github.com/shagunsodhani/talks/tree/master/Community/Commonlounge) | [Commonlounge Community](https://www.commonlounge.com/community/9dcdd386cc28446695305db00d2de532) | March  |
 | [Functional Programming in Python](https://github.com/shagunsodhani/talks/tree/master/Programming/PyDelhiConference) | [PyDelhi Conference 2017](https://conference.pydelhi.org/) | March  |
 | [Panel Discussion on state of Python in Delhi/NCR](https://github.com/shagunsodhani/talks/tree/master/Community/PyDelhiConference) | [PyDelhi Conference 2017](https://conference.pydelhi.org/) | March  |
