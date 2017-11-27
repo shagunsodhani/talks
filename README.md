@@ -4,6 +4,7 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
+| [Task-Oriented Query Reformulation with Reinforcement Learning](https://arxiv.org/abs/1704.04572) | Language Understanding and Reading Group, MILA  | September  |
 | [Machine Learning Architectures](https://github.com/shagunsodhani/talks/tree/master/ML/PyData/02.09.2017) | [PyData Conference 2017](https://pydata.org/delhi2017/) | September  |
 | [Deep Learning using Image Captioning with TensorFlow & Keras!](https://github.com/shagunsodhani/talks/tree/master/ML/WomenWhoCode/07.23.2017) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/239975459/) | July  |
 | [Python for Machine Learning](https://github.com/shagunsodhani/talks/tree/master/ML/WomenWhoCode/06.04.2017) | [Women Who Code](https://www.meetup.com/Women-Who-Code-Delhi/events/240426878/) | June  |
