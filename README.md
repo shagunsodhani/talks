@@ -5,6 +5,7 @@
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
 | [Numpy to PyTorch](https://github.com/shagunsodhani/PyCon2018) | [PyCon Canada](https://2018.pycon.ca/) | November |
+| [Numpy to PyTorch](https://github.com/shagunsodhani/PyCon2018) | [Montreal Python](https://montrealpython.org/en/2018/10/mp73/) | November |
 | [Representation Learning on Graphs with Jumping Knowledge Networks](https://docs.google.com/presentation/d/1VqmZEGFLWvyt2UazWje5UmgIM5geU3O1r0DkWlgNVVM/edit#slide=id.g36248c8b2c_0_644) | [Reading Group on Graphs, MILA](http://shagunsodhani.in/Graph-Reading-Group/)  | June  |
 | Stochastic Training of Graph Convolutional Networks with Variance Reduction | [Reading Group on Graphs, MILA](http://shagunsodhani.in/Graph-Reading-Group/)  | June  |
 | [GraphRNN: A Deep Generative Model for Graphs](https://docs.google.com/presentation/d/1KV1LpLRVN7xLim_ccZlrxlQWKxcL4k0yldFU1ZgNdGs/edit#slide=id.g36248c8b2c_0_644) | [Reading Group on Graphs, MILA](http://shagunsodhani.in/Graph-Reading-Group/)  | May  |
