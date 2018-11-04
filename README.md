@@ -1,5 +1,13 @@
 # Repository of my talks/presentations
 
+## 2018
+
+| Topic                                                                 | Event                                   | Month     |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: |
+| [Numpy to PyTorch](https://github.com/shagunsodhani/PyCon2018) | [PyCon Canada](https://2018.pycon.ca/) | November |
+| [Message Passing Neural Networks](https://docs.google.com/presentation/d/1inRMMN2ZcEgEcceQ3FjCRF8IPsC7Ch13qjFrPBDG9uA/edit?usp=sharing) | [Reading Group on Graphs, MILA](http://shagunsodhani.in/Graph-Reading-Group/)  | April  |
+
+
 ## 2017
 
 | Topic                                                                 | Event                                   | Month     |
