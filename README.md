@@ -4,13 +4,14 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
-| [](https://drive.google.com/file/d/1SCgEmYZn3jggd5HP54DUM7lFGDJjJloH/view) | [Reading Group on Graphs, MILA](https://shagunsodhani.github.io/Graph-Reading-Group/)  | May  |
+| [Evaluating Logical Generalization in Graph Neural Networks](https://drive.google.com/file/d/1FioJBd3S8NG1hSmQXiB0gUveAHOUVCHr/view?usp=sharing) | Summer Research Symposium  | March  |
+
 
 ## 2019
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
-| [Evaluating Logical Generalization in Graph Neural Networks](https://drive.google.com/file/d/1FioJBd3S8NG1hSmQXiB0gUveAHOUVCHr/view?usp=sharing) | Summer Research Symposium  | March  |
+| [GNN Explainer - A Tool for Post-hoc Explanation of Graph Neural Networks](https://drive.google.com/file/d/1SCgEmYZn3jggd5HP54DUM7lFGDJjJloH/view) | [Reading Group on Graphs, MILA](https://shagunsodhani.github.io/Graph-Reading-Group/)  | March  |
 
 
 ## 2018
