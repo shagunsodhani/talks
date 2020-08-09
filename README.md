@@ -4,6 +4,7 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
+| [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](ML/AIForPeople/09.08.2020/Toward_Trustworthy_AI_Development_Mechanisms_for_Supporting_Verifiable_Claims.pdf) | [First AI for People Workshop](https://sites.google.com/view/ai-for-people-workshop/)  | August  |
 | [Evaluating Logical Generalization in Graph Neural Networks](https://drive.google.com/file/d/1FioJBd3S8NG1hSmQXiB0gUveAHOUVCHr/view?usp=sharing) | Summer Research Symposium  | March  |
 
 
