@@ -4,7 +4,11 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
+| [Policy Gradients](ML/DS@UA/20.11.2020/slides.pdf) | [9th Data Science UA Conference](https://data-science-ua.com/conference/)  | November  |
+| [PyTorch Tutorial](ML/course/INF8953CE/README.md) | [Machine Learning Course at Mila/PolyTechnique Montreal](http://sarathchandar.in/teaching/ml/fall2020/)  | November  |
+| [A Closer Look at Codistillation for Distributed Training](ML/BrainAndCognitiveSociety/codistillation/slides.pdf) | [Brain and Cognitive Society, IIT Kanpur](https://bcs-iitk.github.io/)  | November  |
 | [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](ML/AIForPeople/09.08.2020/Toward_Trustworthy_AI_Development_Mechanisms_for_Supporting_Verifiable_Claims.pdf) | [First AI for People Workshop](https://sites.google.com/view/ai-for-people-workshop/)  | August  |
+| [PyTorch - What, why and how?](ML/FacebookStartupAccelerator/22.06.2020/slides.pdf) | [Facebook Startup Accelerator](https://developers.facebook.com/startups/)  | June  |
 | [Evaluating Logical Generalization in Graph Neural Networks](https://drive.google.com/file/d/1FioJBd3S8NG1hSmQXiB0gUveAHOUVCHr/view?usp=sharing) | Summer Research Symposium  | March  |
 
 
