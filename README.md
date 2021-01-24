@@ -1,5 +1,12 @@
 # Repository of my talks/presentations
 
+## 2021
+
+| Topic                                                                 | Event                                   | Month     |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
+| [Panel Discussion on Data Science Research & Industry, Open Source, Career in DS and Privacy of ML Models.](https://www.youtube.com/watch?v=G63UTp7JS0k&feature=youtu.be) | [PyData Delhi](https://delhi.pydata.org/)  | January  |
+
+
 ## 2020
 
 | Topic                                                                 | Event                                   | Month     |
