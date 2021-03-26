@@ -4,7 +4,7 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
-| [Tutorial on Multi-Task Reinforcement Learning](ML/ODSCEast/01.04.2021/slides.pdf) | [ODSC East 2021](https://esummit-iiita.com/)  | April  |
+| [Tutorial on Multi-Task Reinforcement Learning](ML/ODSCEast/01.04.2021/slides.pdf) | [ODSC East 2021](https://odsc.com/speakers/multi-task-reinforcement-learning/)  | April  |
 | [Panel Discussion on In Data Science & AI, experience matters more, or talent does.]() | [ESUMMIT'21](https://esummit-iiita.com/)  | March  |
 | [Panel Discussion on Data Science Research & Industry, Open Source, Career in DS and Privacy of ML Models.](https://www.youtube.com/watch?v=G63UTp7JS0k&feature=youtu.be) | [PyData Delhi](https://delhi.pydata.org/)  | January  |
 
