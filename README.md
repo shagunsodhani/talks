@@ -6,7 +6,7 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
-| [Environments and Baselines for Multi-task RL](ML/PyTorchCommunityVoices/04.08.2021/poster.pdf) | [PyTorch Community Voices](https://www.youtube.com/watch?v=QIX9b9EAZOY)  | August  |
+| [Environments and Baselines for Multi-task RL](ML/PyTorchCommunityVoices/04.08.2021/poster.pdf) | [PyTorch Ecosytem Day](https://pytorch.org/ecosystem/pted/2021) and [PyTorch Community Voices](https://www.youtube.com/watch?v=QIX9b9EAZOY)  | August  |
 | [Multitask Reinforcement Learning with Python](ML/EuroPython/30.07.2021/poster.pdf) | [EuroPython 2021](https://ep2021.europython.eu/talks/5sUtdJv-multitask-reinforcement-learning-with-python/)  | July  |
 | [Multitask Reinforcement Learning with Python](ML/PyCon/US/23.04.2021/slides.pdf) | [PyConUS 2021](https://us.pycon.org/2021/schedule/presentation/43/)  | April  |
 | [Tutorial on Multi-Task Reinforcement Learning](ML/ODSCEast/01.04.2021/slides.pdf) | [ODSC East 2021](https://odsc.com/speakers/multi-task-reinforcement-learning/)  | March  |
