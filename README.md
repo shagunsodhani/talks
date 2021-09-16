@@ -6,6 +6,7 @@
 
 | Topic                                                                 | Event                                   | Month     |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
+| [Logging Machine Learning Experiments](ML/PyCon/India/19.09.2021/slides.pdf) | [PyCon India 2021](https://in.pycon.org/2021/) | September  |
 | [Environments and Baselines for Multi-task RL](ML/PyTorchCommunityVoices/04.08.2021/poster.pdf) | [PyTorch Ecosytem Day](https://pytorch.org/ecosystem/pted/2021) and [PyTorch Community Voices](https://www.youtube.com/watch?v=QIX9b9EAZOY)  | August  |
 | [Multitask Reinforcement Learning with Python](ML/EuroPython/30.07.2021/poster.pdf) | [EuroPython 2021](https://ep2021.europython.eu/talks/5sUtdJv-multitask-reinforcement-learning-with-python/)  | July  |
 | [Multitask Reinforcement Learning with Python](ML/PyCon/US/23.04.2021/slides.pdf) | [PyConUS 2021](https://us.pycon.org/2021/schedule/presentation/43/)  | April  |
