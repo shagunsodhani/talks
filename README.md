@@ -8,6 +8,7 @@
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: 
 | [Profiling and Tuning PyTorch Models](ML/PyData/28.10.2021/README.md) | [PyData Global 2021](https://pydata.org/global2021/) | October  |
 | [PyTorch Tutorial](ML/course/INF8245E/README.md) | [Machine Learning Course](https://chandar-lab.github.io/INF8245E/) and Reinforcement Learning Course at Mila/PolyTechnique Montreal  | October/November  |
+| [Overview of Machine Learning & Artificial Intelligence](https://docs.google.com/presentation/d/1hFvfDs9YuY1Cu-YmFFTpdo-gu_U1X_gu-YyNWLf36CI/edit#slide=id.geb170754af_3_110) | [AMP Data and Analytics Seminar](https://www.iitrfriends.org/iitramp/amp-talks/data-and-analytics) | October  |
 | [Logging Machine Learning Experiments](ML/PyCon/India/19.09.2021/slides.pdf) | [PyCon India 2021](https://in.pycon.org/2021/) | September  |
 | [Environments and Baselines for Multi-task RL](ML/PyTorchCommunityVoices/04.08.2021/poster.pdf) | [PyTorch Ecosytem Day](https://pytorch.org/ecosystem/pted/2021) and [PyTorch Community Voices](https://www.youtube.com/watch?v=QIX9b9EAZOY)  | August  |
 | [Multitask Reinforcement Learning with Python](ML/EuroPython/30.07.2021/poster.pdf) | [EuroPython 2021](https://ep2021.europython.eu/talks/5sUtdJv-multitask-reinforcement-learning-with-python/)  | July  |
