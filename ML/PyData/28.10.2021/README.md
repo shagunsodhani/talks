@@ -4,7 +4,7 @@ Profiling and Tuning PyTorch Models
 
 ## Presentation
 
-* [Slides](ML/PyData/28.10.2021/slides.pdf)
+* [Slides](slides.pdf)
 
 ## Event
 
