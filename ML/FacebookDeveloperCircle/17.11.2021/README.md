@@ -4,7 +4,7 @@ Demystifying the ML Engineer Role
 
 ## Presentation
 
-* [Slides](ML/FacebookDeveloperCircles/17.11.2021/slides.pdf)
+* [Slides](slides.pdf)
 
 ## Event
 
