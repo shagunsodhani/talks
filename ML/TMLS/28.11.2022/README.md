@@ -4,7 +4,7 @@ Tutorial on Distributed Training with PyTorch
 
 ## Presentation
 
-- [Slides]()
+- [Slides](slides.pdf)
 - [Code](https://github.com/shagunsodhani/tmls2022)
 
 ## Event

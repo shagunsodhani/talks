@@ -2,11 +2,11 @@
 
 ## 2022
 
-|                                                          Topic                                                           |                           Event                            | Month |
-| :----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :---: |
-| [Distributed Training with PyTorch]() | [6th Annual Summit and Expo, Toronto Machine Learning Society](https://www.torontomachinelearning.com/) | November |
-| Journey from undergrad to ML research | OnRec, IITR Podcast | November |
-| [Panel Discussion on Internship Opportunities for Undergraduate Students](https://www.iitramp.org/talks/ama-internships) | [IITR Alumni Mentorship Program](https://www.iitramp.org/) | March |
+|                                                          Topic                                                           |                                                  Event                                                  |  Month   |
+| :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
+|                            [Distributed Training with PyTorch](ML/TMLS/28.11.2022/README.md)                             | [6th Annual Summit and Expo, Toronto Machine Learning Society](https://www.torontomachinelearning.com/) | November |
+|                                          Journey from undergrad to ML research                                           |                                           OnRec, IITR Podcast                                           | November |
+| [Panel Discussion on Internship Opportunities for Undergraduate Students](https://www.iitramp.org/talks/ama-internships) |                       [IITR Alumni Mentorship Program](https://www.iitramp.org/)                        |  March   |
 
 ## 2021
 
