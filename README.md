@@ -1,5 +1,11 @@
 # Repository of my talks/presentations
 
+## 2023
+
+|                                                          Topic                                                           |                                                  Event                                                  |  Month   |
+| :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
+|                            [PyTorch 2.0 - Why Should You Care](ML/EuroPython/21.07.2023/README.md)                       | [EuroPython 2023](https://ep2023.europython.eu/session/pytorch-20-why-should-you-care)                  |   July   |
+
 ## 2022
 
 |                                                          Topic                                                           |                                                  Event                                                  |  Month   |
