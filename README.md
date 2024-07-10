@@ -1,5 +1,11 @@
 # Repository of my talks/presentations
 
+## 2024
+
+|                                                          Topic                                                           |                                                  Event                                                  |  Month   |
+| :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
+|                            [torch.func: Functional Transforms in PyTorch](ML/TMLS/28.11.2022/README.md)                       | [8th Annual Toronto Machine Learning Summit](https://www.torontomachinelearning.com/)                  |   July   |
+
 ## 2023
 
 |                                                          Topic                                                           |                                                  Event                                                  |  Month   |
