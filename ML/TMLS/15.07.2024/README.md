@@ -5,7 +5,7 @@ torch.func: Functional Transforms in PyTorch
 ## Presentation
 
 - [Slides](slides.pdf)
-- [Code](notebook.ipynb)
+- [Code](https://github.com/shagunsodhani/talks/blob/master/ML/TMLS/15.07.2024/notebook.ipynb)
 
 ## Event
 
