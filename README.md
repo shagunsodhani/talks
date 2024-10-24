@@ -4,6 +4,7 @@
 
 |                                                          Topic                                                           |                                                  Event                                                  |  Month   |
 | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
+|                                              [Scaling Deep Learning Training with FSDP in PyTorch](ML/ODSCWest/29.10.2024/slides.pdf)                                               |                                                    [ODSC West 2024](https://odsc.com/speakers/scaling-deep-learning-training-with-fully-sharded-data-parallelism-in-pytorch/)    
 |                            [torch.func: Functional Transforms in PyTorch](ML/TMLS/15.07.2024/README.md)                       | [8th Annual Toronto Machine Learning Summit](https://www.torontomachinelearning.com/)                  |   July   |
 
 ## 2023
