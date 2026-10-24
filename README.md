@@ -1,5 +1,12 @@
 # Repository of my talks/presentations
 
+## 2026
+
+|                                                          Topic                                                           |                                                  Event                                                  |  Month   |
+| :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------: |
+|                                              [Google DeepMind APAC Research Symposium 2026](ML/ODSCWest/29.10.2024/README.md)                                               |                                                    [Google DeepMind APAC Research Symposium 2026](https://rsvp.withgoogle.com/events/gdmrs26/home)    | October
+
+
 ## 2024
 
 |                                                          Topic                                                           |                                                  Event                                                  |  Month   |
